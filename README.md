@@ -1,6 +1,6 @@
 # simply.
 
-A Mac habit tracker I made for myself.
+A Mac habit tracker for people who value privacy.
 
 During the medieval times, this used to be a little local web app I kept open in a browser tab while testing out streamlit. Eventually got tired of that, so remade it as an actual Mac app. Pretty basic yet essential stuff.
 
