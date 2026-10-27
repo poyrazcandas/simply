@@ -2,7 +2,7 @@
 
 A Mac habit tracker I made for myself.
 
-During the medieval times, this used to be a little local web app I kept open in a browser tab during my first days of streamlit. Eventually got tired of that, so remade it as an actual Mac app. Pretty basic yet essential stuff.
+During the medieval times, this used to be a little local web app I kept open in a browser tab while testing out streamlit. Eventually got tired of that, so remade it as an actual Mac app. Pretty basic yet essential stuff.
 
 There's a Daily screen with morning / day / night habits, a progress bar so you can see if the day actually filled up, and a reflection box at the bottom. Habits you can add and rearrange. Insights if you want to see streaks and which habits tend to go with better days. That's pretty much the whole thing.
 
